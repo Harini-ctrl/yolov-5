@@ -20,8 +20,8 @@ collection = db['data']
 app.config['MAIL_SERVER'] = 'smtp.gmail.com'
 app.config['MAIL_PORT'] = 587
 app.config['MAIL_USE_TLS'] = True
-app.config['MAIL_USERNAME'] = 'khsyooooo@gmail.com'  # Replace with your Gmail address
-app.config['MAIL_PASSWORD'] = 'pzwclfwjdsvbshzo'  # Replace with your Gmail password
+app.config['MAIL_USERNAME'] = '*******'  # Replace with your Gmail address
+app.config['MAIL_PASSWORD'] = '********'  # Replace with your Gmail password
 
 mail.init_app(app)
 
